@@ -23,6 +23,22 @@
       "category": "Educação",
       "price": 1980,
       "createdAt": "2022-07-29T22:30:44.505Z"
+    },
+    {
+      "description": "Viagem",
+      "price": 200,
+      "category": "lazer",
+      "type": "outcome",
+      "createdAt": "2024-05-08T00:33:03.317Z",
+      "id": 4
+    },
+    {
+      "description": "Desenvolvimento de app",
+      "price": 5000,
+      "category": "venda",
+      "type": "income",
+      "createdAt": "2024-05-08T01:00:39.585Z",
+      "id": 5
     }
   ]
 }
